@@ -13,17 +13,24 @@ A powerful and elegant web scraping application with AI-powered content extracti
 
 ## Screenshots
 
-### Web Scraper Interface
+### Question of the Day from Leetcode
 
-<!-- Add a screenshot of the main web scraper interface here -->
+![Leetcode Question](screenshots/img2.png)
 
-### Saved Results
+### Scraping NoBroker and Summarizing results of Whitefield Bangalore in a table
 
-<!-- Add a screenshot of the saved results tab here -->
+![Web Scraper Interface](screenshots/img3.png)
+![Web Scraper Interface](screenshots/img4.png)
+![Web Scraper Interface](screenshots/img5.png)
+![Web Scraper Interface](screenshots/img6.png)
 
 ### Batch Processing
 
-<!-- Add a screenshot of the batch processing interface here -->
+![Batch Processing](screenshots/img7.png)
+
+### Saved Results
+
+![Saved Results](screenshots/img8.png)
 
 ## Installation
 
