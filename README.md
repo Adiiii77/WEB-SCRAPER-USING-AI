@@ -38,7 +38,21 @@ cd ai-web-scraper
 pip install -r requirements.txt
 ```
 
-3. Run the application:
+3. Install Ollama:
+```bash
+# On macOS or Linux
+curl -fsSL https://ollama.com/install.sh | sh
+
+# On Windows
+# Download from https://ollama.com/download
+```
+
+4. Pull the Llama 3.1 model:
+```bash
+ollama pull llama3.1
+```
+
+5. Run the application:
 ```bash
 streamlit run app.py
 ```
@@ -64,6 +78,7 @@ streamlit run app.py
 
 - **Streamlit**: For the web application framework
 - **Ollama**: For AI-powered content parsing
+- **Llama 3.1**: Large language model for extracting structured information
 - **Bright Data Scraping Browser**: For enhanced web scraping capabilities with anti-bot protection bypass
 - **Python**: Core programming language
 
@@ -89,4 +104,4 @@ This application uses Bright Data's Scraping Browser to bypass captchas and othe
 
 ---
 
-Created with ❤️ by ADITYA RAI
+Created with ❤️ by Aditya Rai
