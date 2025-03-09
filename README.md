@@ -101,14 +101,6 @@ This application uses Bright Data's Scraping Browser to bypass captchas and othe
 - Extremely complex websites with heavy JavaScript rendering might not be parsed perfectly
 - Extraction quality depends on the clarity of your natural language instructions
 
-## Future Improvements
-
-- Database integration for persistent storage
-- Export functionality for results (CSV, JSON, etc.)
-- Custom parsing templates for common websites
-- User authentication system
-- Scheduled scraping jobs
-
 ---
 
 Created with ❤️ by Aditya Rai
